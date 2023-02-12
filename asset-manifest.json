@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb267d0b.css",
+    "main.css": "/static/css/main.bf5af8b9.css",
     "main.js": "/static/js/main.8020ad83.js",
     "static/media/blog2.png": "/static/media/blog2.22595d10c1688fa33d17.png",
     "static/media/niebomin.png": "/static/media/niebomin.64661025fffdc81b5309.png",
@@ -13,11 +13,11 @@
     "static/media/cv.pdf": "/static/media/cv.e37918094723a12069ca.pdf",
     "static/media/ecommerce.jpg": "/static/media/ecommerce.3b50f2cc1268abd2bc32.jpg",
     "index.html": "/index.html",
-    "main.eb267d0b.css.map": "/static/css/main.eb267d0b.css.map",
+    "main.bf5af8b9.css.map": "/static/css/main.bf5af8b9.css.map",
     "main.8020ad83.js.map": "/static/js/main.8020ad83.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb267d0b.css",
+    "static/css/main.bf5af8b9.css",
     "static/js/main.8020ad83.js"
   ]
 }
