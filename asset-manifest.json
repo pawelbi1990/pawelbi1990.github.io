@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.62ff1d8e.css",
-    "main.js": "/static/js/main.ba190c6b.js",
+    "main.css": "/static/css/main.0c9294db.css",
+    "main.js": "/static/js/main.9f21cabe.js",
     "static/media/projectsmin.png": "/static/media/projectsmin.97d71bd8a4846fcd5699.png",
     "static/media/blog2.png": "/static/media/blog2.22595d10c1688fa33d17.png",
     "static/media/niebomin.png": "/static/media/niebomin.64661025fffdc81b5309.png",
@@ -13,11 +13,11 @@
     "static/media/cv.pdf": "/static/media/cv.e37918094723a12069ca.pdf",
     "static/media/ecommerce.jpg": "/static/media/ecommerce.3b50f2cc1268abd2bc32.jpg",
     "index.html": "/index.html",
-    "main.62ff1d8e.css.map": "/static/css/main.62ff1d8e.css.map",
-    "main.ba190c6b.js.map": "/static/js/main.ba190c6b.js.map"
+    "main.0c9294db.css.map": "/static/css/main.0c9294db.css.map",
+    "main.9f21cabe.js.map": "/static/js/main.9f21cabe.js.map"
   },
   "entrypoints": [
-    "static/css/main.62ff1d8e.css",
-    "static/js/main.ba190c6b.js"
+    "static/css/main.0c9294db.css",
+    "static/js/main.9f21cabe.js"
   ]
 }
